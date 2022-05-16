@@ -1,6 +1,7 @@
 # Learning and experimentation with the book *Think Python*, by Allen Downey
 
 I completed succesfuly almost all excercises and projects from this book. The more relevant are the following:
+
 * Interlocked Words (Exercise 10.2)
 * Bisection Search (Exercise 10.9)
 * Frequency Proportional Random Choose from a Book's Histogram (Exercises 13.5 and 13.7) (Book Works II and IV)
