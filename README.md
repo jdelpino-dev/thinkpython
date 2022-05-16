@@ -8,3 +8,5 @@ I completed succesfuly almost all excercises and projects from this book. The mo
 * Markov Analysis: Playing with Text Generation (Exercise 13.8)
 * Zipf's Law: Mathematics and Natural Languages (Exercise 13.12.9)
 * Book Histograms (Word Frequencies), and Book Comparison with Dictionary Subtraction (Exercises 13.1-4: Book Works I)
+
+["Think Python" is a great book!"]("readme_images/thinkpython-cover.png")
