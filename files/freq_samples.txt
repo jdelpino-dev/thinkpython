@@ -1,0 +1,101 @@
+#LANG#ENGLISH#
+#[1]#
+Linguists use letter frequency analysis as a rudimentary technique
+for language identification, where it's particularly effective as an
+indication of whether an unknown writing system is alphabetic, syllabic,
+or ideographic. For example, the Japanese Hiragana syllabary contains 46
+distinct characters, which is more than most phonetic alphabets; by contrast,
+the English and Hawaiian alphabets have only 26 and 13 letters, respectively.
+#[2]#
+Hiragana is a Japanese syllabary, one component of the Japanese writing system,
+along with katakana, kanji, and in some cases romaji (Latin script). It is a
+phonetic lettering system. The word hiragana literally means "ordinary" or
+"simple" kana ("simple" originally as contrasted with kanji). Hiragana and katakana
+are both kana systems. With one or two minor exceptions, each sound in the Japanese
+language (strictly, each mora) is represented by one character (or one digraph)
+in each system. This may be either a vowel such as "a"; a consonant
+followed by a vowel such as "ka"; or "n", a nasal sonorant which, depending
+ on the context, sounds either like English m, n, or ng when syllable-final,
+or like the nasal vowels of French. Because the characters of the kana do not
+represent single consonants, the kana are referred to as syllabic symbols
+and not alphabetic letters. Hiragana is used to write okurigana, various
+grammatical and function words including particles, as well as miscellaneous 
+other native words for which there are no kanji or whose kanji form is obscure
+ or too formal for the writing purpose.
+#[3]#
+Parsing, syntax analysis, or syntactic analysis is the process of analyzing
+a string of symbols, either in natural language, computer languages or data
+structures, conforming to the rules of a formal grammar. The term parsing comes
+from Latin pars (orationis), meaning part (of speech). The term has slightly
+different meanings in different branches of linguistics and computer science.
+Traditional sentence parsing is often performed as a method of understanding
+the exact meaning of a sentence or word, sometimes with the aid of devices such
+as sentence diagrams. It usually emphasizes the importance of grammatical
+divisions such as subject and predicate. Within computational linguistics
+the term is used to refer to the formal analysis by a computer of a sentence
+or other string of words into its constituents, resulting in a parse
+tree showing their syntactic relation to each other, which may also contain
+semantic and other information. Some parsing algorithms may generate a parse
+forest or list of parse trees for a syntactically ambiguous input. The term is
+also used in psycholinguistics when describing language comprehension. In this
+context, parsing refers to the way that human beings analyze a sentence
+or phrase (in spoken language or text) "in terms of grammatical constituents,
+identifying the parts of speech, syntactic relations, etc." This term is
+especially common when discussing what linguistic cues help speakers
+to interpret garden-path sentences. Within computer science, the term is used
+in the analysis of computer languages, referring to the syntactic analysis of
+the input code into its component parts in order to facilitate the writing of
+compilers and interpreters. The term may also be used to describe a split or
+separation.
+#LANG#SPANISH#
+#[1]#
+Los lingüistas usan el análisis de frecuencia de letras como una técnica
+rudimentaria para identificar distintos idiomas. Este método es particularmente
+efectivo para indicar si un sistema de escritura desconocido es alfabético,
+silábico o ideográfico. Por ejemplo, el silabario japonés hiragana contiene 46
+caracteres distintos, que es más que la mayoría de los alfabetos fonéticos;
+en contraste, los alfabetos inglés y hawaiano tienen solo 26 y 13 letras,
+respectivamente.
+#[2]#
+El hiragana es uno de los dos silabarios empleados
+en la escritura japonesa; el otro se denomina katakana. También se suele
+emplear hiragana para referirse a cualquiera de los caracteres de dicho
+silabario. Proviene de la simplificación de caracteres más complejos
+de origen chino que llegaron antes del comienzo del aislamiento
+cultural japonés, que se mantuvo inflexible hasta el final de la era Edo.
+Se caracteriza por trazos curvos y simples. El hiragana, antiguamente
+(onnade, mano de mujer) fue inventado por las mujeres, una versión mas bella
+que las formas rectas del katakana, el hiragana (tanto como el katakana)
+evolucionaron del silabario del japonés antiguo Man'yogana, que a su vez
+terminó creando el Hentaigana, y de la escritura cursiva del Hentaigana
+nació el Hiragana. La primera vez que el hiragana fue utilizado en un libro
+escrito por un hombre, fue el Diario de Tosa, por Ki no Tsurayuki. Sin embargo,
+él se hizo pasar por una mujer que lloraba por la muerte de su hija,
+debido que los hombres no podían utilizar este sistema de escritura.
+Cuando se hace referencia a ambos silabarios en conjunto, hiragana y katakana,
+se conocen como kana. Estos caracteres, al contrario que los kanji,
+no tienen ningún valor conceptual, sino únicamente fonético.
+#[3]#
+Un analizador sintáctico (o parser) es un programa informático que
+analiza una cadena de símbolos de acuerdo a las reglas de una gramática
+formal. El término proviene del latín pars, que significa parte (del discurso).
+Usualmente hace parte de un compilador, en cuyo caso, transforma una entrada
+en un árbol sintáctico de derivación. El análisis sintáctico convierte el texto
+de entrada en otras estructuras (comúnmente árboles), que son más útiles para
+el posterior análisis y capturan la jerarquía implícita de la entrada.
+Un analizador léxico crea tokens de una secuencia de caracteres de entrada
+y son estos tokens los que son procesados por el analizador sintáctico para
+construir la estructura de datos, por ejemplo un árbol de análisis o árboles
+de sintaxis abstracta. El lenguaje natural. Es usado para generar diagramas
+de lenguajes que usan flexión gramatical, como los idiomas romances o el latín.
+Los lenguajes habitualmente reconocidos por los analizadores sintácticos son
+los lenguajes libres de contexto. Cabe notar que existe una justificación
+formal que establece que los lenguajes libres de contexto son aquellos
+reconocibles por un autómata de pila, de modo que todo analizador sintáctico
+que reconozca un lenguaje libre de contexto es equivalente en capacidad
+computacional a un autómata de pila. Los analizadores sintácticos fueron
+extensivamente estudiados durante los años 1970, detectándose numerosos
+patrones de funcionamiento en ellos, cosa que permitió la creación de programas
+generadores de analizadores sintáticos a partir de una especificación de la
+sintaxis del lenguaje en forma Backus-Naur por ejemplo, tales como yacc, 
+GNU bison y javaCC.

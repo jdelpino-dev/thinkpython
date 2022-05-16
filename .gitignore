@@ -1,0 +1,41 @@
+# Based on GitHub recommendations
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pycache__
+__pycache__/*
+*.py[cod]
+*$py.class
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.vscode/settings.json
+
+# Local History for Visual Studio Code
+.history/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+profile_default/*
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Other
+not_done_yet/
+From the book/
+not_done_yet/*
+From the book/*
